@@ -6,4 +6,6 @@ Example 2: https://github.com/DylanMathiot/MAGDProjects/blob/main/bubbles_copy_2
 
 Example 3: https://github.com/DylanMathiot/MAGDProjects/blob/main/f21magd150lab01_Mathiot.zip 
 
-Example 4: 
+Example 4: https://github.com/DylanMathiot/MAGDProjects/blob/main/f21magd150lab04_Mathiot.zip
+
+Example 5: 
